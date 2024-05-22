@@ -1,0 +1,15 @@
+p { background-color: white; }
+
+.box {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    text-align: center;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+}
